@@ -1,0 +1,17 @@
+{
+  "name": "CheckNik",
+  "short_name": "CheckNik",
+  "description": "Alat OSINT identitas online gratis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
